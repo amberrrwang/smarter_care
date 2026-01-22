@@ -23,6 +23,7 @@ We used data derived from MIMIC-IV, a large, publicly available, de-identified e
 
 Dataset characteristics:
 - Over 9,000 patient records used for modeling
+- Detailed information on over 65,000 ICU patient stays
 - Real-world EHR data reflecting actual clinical documentation practices
 - Includes demographics, vitals, labs, medications and care-related variables
 - Suitable for developing clinically relevant and generalizable models
