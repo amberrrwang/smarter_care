@@ -1,7 +1,7 @@
 # SmartDischarge: Early Prediction of ICU Readmission Risk  
 
 ## Project Overview
-Unplanned ICU readmissions (“bounce-backs”) are a significant source of preventable harm, clinician burden and healthcare system cost. Nurses are often the first to sense that “something’s not right,” yet existing predictive models are rarely integrated into real clinical workflows.
+Unplanned ICU readmissions are a significant source of preventable harm, clinician burden and healthcare system cost. Nurses are often the first to sense that something’s not right, yet existing predictive models are sometimes not integrated into real clinical workflows.
 
 SmartDischarge is a nurse-centered, data-driven risk scoring tool that predicts the probability of ICU readmission within 48 hours of discharge. Our goal is to support proactive intervention and safer discharge planning by providing interpretable, real-time risk signals that can be easily integrated into nursing workflows.
 
